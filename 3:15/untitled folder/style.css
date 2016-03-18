@@ -1,0 +1,51 @@
+.container {
+    max-width: 800px;
+    margin: 0px auto;
+}
+
+.row {}
+
+p {
+    font-size: 15px;
+}
+
+#header {
+    height: 50px;
+    margin: 0px auto;
+}
+
+#box1 {
+    height: 150px;
+    margin: 0px auto;
+}
+
+#box2 {
+    height: 150px;
+    margin: 0px auto;
+}
+
+#box3 {
+    height: 150px;
+    margin: 0px auto;
+}
+
+#box4 {
+    height: 150px;
+    margin: 0px auto;
+}
+
+#box5 {
+    height: 150px;
+    margin: 0px auto;
+}
+
+#box6 {
+    height: 150px;
+    margin: 0px auto;
+}
+
+#footer {
+    height: 50px;
+    margin: 0px auto;
+    background-color: blue;
+}

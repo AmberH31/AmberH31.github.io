@@ -1,0 +1,10 @@
+.quarantee {
+    padding: 80px;
+    border: 1px dashed white;
+    border-radius: 15px 50px;
+    background-color: #12B9F0;
+    margin: 30px;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    width: 300px;
+}

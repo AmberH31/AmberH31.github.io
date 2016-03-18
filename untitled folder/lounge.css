@@ -1,0 +1,12 @@
+.quarantee {
+    max-width: 1000px;
+    padding: 25px 60px 60px 25px;
+    border: 1px dashed white;
+    border-radius: 15px 50px;
+    background-color: #12B9F0;
+    margin: 30px;
+    background-image: url(images/background.gif);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    width: 300px;
+}
